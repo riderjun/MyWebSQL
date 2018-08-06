@@ -47,11 +47,11 @@
 		                             'host'     => 'localhost',
 		                             'driver'   => 'pgsql'
 		                         ),
-		/*'MySQL Proxy Server'  => array(
-		                             'host'     => 'localhost:4040',
+		'MySQL Proxy Server'  => array(
+		                             'host'     => '10.224.6.11:32274',
 		                             'driver'   => 'mysql5'
 		                         ),
-		'MySQL 4'             => array(
+		/*'MySQL 4'             => array(
 		                             'host'     => 'localhost',
 		                             'driver'   => 'mysql4'
 		                         ),
