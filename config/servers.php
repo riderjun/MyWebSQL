@@ -42,11 +42,11 @@
 		                             'driver'   => 'sqlite3',
 		                             'user'     => 'root',    // set this yourself
 		                             'password' => 'sqlite'  // set this yourself
-		                         ),
+		                         ),*/
  		'Localhost PostgreSQL'     => array(
 		                             'host'     => 'localhost',
 		                             'driver'   => 'pgsql'
-		                         ),*/
+		                         ),
 		'MySQL Proxy Server'  => array(
 		                             'host'     => '10.224.6.11:32274',
 		                             'driver'   => 'mysql5'
