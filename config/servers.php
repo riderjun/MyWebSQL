@@ -33,7 +33,7 @@
 	$ALLOW_CUSTOM_SERVER_TYPES = "mysql,pgsql";
 
 	$SERVER_LIST = array(
-		'Localhost MySQL'           => array(
+		/*'Localhost MySQL'           => array(
 		                             'host'     => 'localhost',
 		                             'driver'   => extension_loaded('mysqli') ? 'mysqli' : 'mysql5'
 		                         ),
@@ -46,7 +46,7 @@
  		'Localhost PostgreSQL'     => array(
 		                             'host'     => 'localhost',
 		                             'driver'   => 'pgsql'
-		                         ),
+		                         ),*/
 		'MySQL Proxy Server'  => array(
 		                             'host'     => '10.224.6.11:32274',
 		                             'driver'   => 'mysql5'
